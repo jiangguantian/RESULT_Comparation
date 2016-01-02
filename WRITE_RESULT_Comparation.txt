@@ -1,0 +1,2 @@
+*MWRITE,T_%SJ%,E:/RESULT_Comparation/T_%SJ%,TXT
+(F5.2,9F6.2)
